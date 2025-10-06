@@ -1,7 +1,4 @@
 ---
-
-### 📘 `03_Git_and_GitHub.md`
-```markdown
 # 🌿 3. Git & GitHub
 
 ## 🔹 What is Git?
