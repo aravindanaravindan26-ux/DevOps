@@ -1,7 +1,5 @@
 ---
 
-### 📙 `04_Jenkins_Basics.md`
-```markdown
 # ⚙️ 4. Jenkins Basics
 
 ## 🔹 What is Jenkins?
